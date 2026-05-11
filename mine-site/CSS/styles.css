@@ -93,8 +93,11 @@ footer {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 20px;
   transition: 0.4s;
+  font-weight: bold;
+  border: 2px solid #191970;
+  /* margin-bottom: 10px; */
 }
 
 .active, .accordion:hover {
@@ -107,3 +110,9 @@ footer {
   background-color: white;
   overflow: hidden;
 }
+.panel p {
+    padding: 25px;
+    line-height: 21px;
+}
+
+.contato.html 
